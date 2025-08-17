@@ -22,6 +22,17 @@ Arayüz **Tkinter** ile geliştirilmiş, PDF işlemleri için **PyMuPDF (fitz)**
 
 ---
 
+## 📷 Ekran Görüntüleri  
+
+Uygulamadan bazı örnek ekran görüntüleri:  
+
+![Ekran Görüntüsü 1](projectscreenshots/ss6.png)  
+![Ekran Görüntüsü 2](projectscreenshots/ss7.png)  
+![Ekran Görüntüsü 3](projectscreenshots/ss8.png)  
+![Ekran Görüntüsü 4](projectscreenshots/ss9.png)  
+
+---
+
 ## ⚙️ Kurulum
 Projeyi çalıştırmadan önce gerekli kütüphaneleri yükleyin:
 
